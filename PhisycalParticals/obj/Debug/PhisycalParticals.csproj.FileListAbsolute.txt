@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\bin\Debug\PhisycalParticals.exe.config
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\bin\Debug\PhisycalParticals.exe
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\bin\Debug\PhisycalParticals.pdb
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\PhisycalParticals.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\MainWindow.baml
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\MainWindow.g.cs
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\App.g.cs
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\PhisycalParticals_MarkupCompile.cache
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\PhisycalParticals.g.resources
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\PhisycalParticals.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\PhisycalParticals.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\PhisycalParticals.exe
+c:\users\user\documents\visual studio 2012\Projects\PhisycalParticals\PhisycalParticals\obj\Debug\PhisycalParticals.pdb

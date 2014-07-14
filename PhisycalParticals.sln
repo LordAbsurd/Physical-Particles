@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhisycalParticals", "PhisycalParticals\PhisycalParticals.csproj", "{B6FB9165-040B-463E-A3F9-3D90B321A867}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6FB9165-040B-463E-A3F9-3D90B321A867}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FB9165-040B-463E-A3F9-3D90B321A867}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FB9165-040B-463E-A3F9-3D90B321A867}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FB9165-040B-463E-A3F9-3D90B321A867}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
